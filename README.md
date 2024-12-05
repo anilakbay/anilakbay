@@ -29,10 +29,10 @@ Here are some key projects I’ve worked on:
    - [Stok Takip V2 Project](https://github.com/anilakbay/Stok-Takip-V2): A stock tracking system built with Python and MongoDB.
 
 3. **Java Projects**
-Exploring Java for backend development, focusing on object-oriented design and enterprise-level system solutions:
+Exploring Java for backend development with a focus on object-oriented programming and building basic backend systems:
 
-- CRUD Application with JDBC & Java Collections: A robust, scalable CRUD (Create, Read, Update, Delete) application built using Java's JDBC and Collection Framework. This project demonstrates fundamental backend 
-  operations, data manipulation, and database interaction, offering a solid foundation for more advanced Java-based backend solutions.
+CRUD Application with JDBC & Java Collections: A simple CRUD (Create, Read, Update, Delete) application developed using Java's JDBC for database connectivity and the Collections Framework for managing data. This project helped me understand the core concepts of backend development, such as data storage, retrieval, and basic database interaction.
+
 
 ## Get in Touch
 I’m always open to collaboration, feedback, or just a friendly chat! Let’s connect and explore new opportunities to create something great together.
