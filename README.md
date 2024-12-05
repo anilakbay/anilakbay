@@ -7,9 +7,10 @@ I’m a passionate **Full Stack Developer** 💻 with a focus on building scalab
 On my GitHub, you’ll find a variety of projects that demonstrate my ability to create user-friendly, interactive, and innovative web apps. I’m constantly exploring new technologies to keep improving my development process.
 
 ## My Skills
+- **Java (Intermediate)** - Proficient in object-oriented programming (OOP) principles, including inheritance, polymorphism, and encapsulation. Experienced in exception handling, working with collections, and integrating databases using JDBC. Currently expanding my expertise in Spring Boot to build scalable, enterprise-grade backend systems with a focus on performance and reliability.
+- **Python** – Backend development, automation, API management, and data processing.
 - **React.js** & **Next.js** – Building responsive, dynamic user interfaces and server-side rendered applications with seamless UX.
 - **JavaScript** & **TypeScript** – Writing maintainable, scalable, and type-safe code for web applications.
-- **Python** – Backend development, automation, API management, and data processing.
 - **MongoDB** – Managing web application data with scalable NoSQL databases.
 - **Git & GitHub** – Version control for collaborative development and project management.
 - **Docker** – Containerizing applications for easy deployment.
@@ -26,6 +27,12 @@ Here are some key projects I’ve worked on:
 2. **Full Stack Projects with Python**  
    Full-stack web applications developed using Python for backend tasks, database integration, and API management:
    - [Stok Takip V2 Project](https://github.com/anilakbay/Stok-Takip-V2): A stock tracking system built with Python and MongoDB.
+
+3. **Java Projects**
+Exploring Java for backend development, focusing on object-oriented design and enterprise-level system solutions:
+
+- CRUD Application with JDBC & Java Collections: A robust, scalable CRUD (Create, Read, Update, Delete) application built using Java's JDBC and Collection Framework. This project demonstrates fundamental backend 
+  operations, data manipulation, and database interaction, offering a solid foundation for more advanced Java-based backend solutions.
 
 ## Get in Touch
 I’m always open to collaboration, feedback, or just a friendly chat! Let’s connect and explore new opportunities to create something great together.
