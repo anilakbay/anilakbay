@@ -2,43 +2,41 @@
 
 ## About Me
 
-I’m a passionate **Full Stack Developer** 💻 with a focus on building scalable, high-performance web applications. From crafting dynamic front-end experiences with **React.js** & **Next.js** to developing robust back-end solutions using **Python**, I strive to create impactful and user-centric applications.
+I’m a passionate **Full Stack Developer** 💻 specializing in **.NET Core, Blazor & PostgreSQL**, with experience in **React.js** & **Next.js** for dynamic front-end experiences. I build scalable, high-performance web applications that are user-focused and innovative.  
 
-On my GitHub, you’ll find a variety of projects that demonstrate my ability to create user-friendly, interactive, and innovative web apps. I’m constantly exploring new technologies to keep improving my development process.
+I’m constantly exploring new technologies and improving my development workflow to deliver impactful and interactive applications. Check out my GitHub to see projects that showcase my skills in creating modern, responsive, and full-stack web apps.
 
 ## My Skills
-- **Java (Intermediate)** - Proficient in object-oriented programming (OOP) principles, including inheritance, polymorphism, and encapsulation. Experienced in exception handling, working with collections, and integrating databases using JDBC. Currently expanding my expertise in Spring Boot to build scalable, enterprise-grade backend systems with a focus on performance and reliability.
-- **Python** – Backend development, automation, API management, and data processing.
-- **React.js** & **Next.js** – Building responsive, dynamic user interfaces and server-side rendered applications with seamless UX.
-- **JavaScript** & **TypeScript** – Writing maintainable, scalable, and type-safe code for web applications.
-- **MongoDB** – Managing web application data with scalable NoSQL databases.
-- **Git & GitHub** – Version control for collaborative development and project management.
-- **Docker** – Containerizing applications for easy deployment.
-- **AWS** – Building and deploying applications in the cloud.
+- **.NET Core & Blazor (Intermediate)** – Building backend systems and interactive web apps; working with APIs, authentication, and data management using PostgreSQL.  
+- **Python** – Backend development, automation, API management, and data processing.  
+- **React.js & Next.js** – Creating responsive, dynamic front-end interfaces and server-side rendered apps.  
+- **JavaScript & TypeScript** – Writing maintainable, scalable, and type-safe code for web applications.  
+- **PostgreSQL** – Designing and managing relational databases for full-stack applications.  
+- **Git & GitHub** – Version control and collaborative project management.  
+- **Docker** – Containerizing applications for smooth deployment.  
+- **AWS** – Deploying and managing applications in the cloud.  
 
 ## Projects
-Here are some key projects I’ve worked on:
+Some key projects I’ve worked on:
 
-1. **React.js & Next.js Apps**  
-   Explore my dynamic applications built with React.js and Next.js, featuring responsive design and server-side rendering:
-   - [Next.js Coffee World Project](https://github.com/anilakbay/next.js-coffee-world): A fully responsive, interactive web app for coffee enthusiasts.
-   - [E-commerce Project](https://github.com/anilakbay/e-commerce): A modern, scalable e-commerce platform.
+1. **.NET Core & Blazor Projects**  
+   Full-stack web applications leveraging .NET Core for backend and Blazor for interactive front-end:  
+   - [BlazorWebRtc Project](https://github.com/anilakbay/BlazorWebRtc): A real-time communication web app using Blazor and .NET Core with PostgreSQL backend.
 
-2. **Full Stack Projects with Python**  
-   Full-stack web applications developed using Python for backend tasks, database integration, and API management:
-   - [Stok Takip V2 Project](https://github.com/anilakbay/Stok-Takip-V2): A stock tracking system built with Python and MongoDB.
+2. **React.js & Next.js Apps**  
+   Modern web apps with responsive design and server-side rendering:  
+   - [Next.js Coffee World Project](https://github.com/anilakbay/next.js-coffee-world): Interactive, fully responsive web app for coffee enthusiasts.  
+   - [E-commerce Project](https://github.com/anilakbay/e-commerce): Scalable e-commerce platform built with React.js and Next.js.
 
-3. **Java Projects**
-Exploring Java for backend development with a focus on object-oriented programming and building basic backend systems:
-
-CRUD Application with JDBC & Java Collections: A simple CRUD (Create, Read, Update, Delete) application developed using Java's JDBC for database connectivity and the Collections Framework for managing data. This project helped me understand the core concepts of backend development, such as data storage, retrieval, and basic database interaction.
-
+3. **Python Projects**  
+   Full-stack apps developed with Python backend and database integration:  
+   - [Stok Takip V2 Project](https://github.com/anilakbay/Stok-Takip-V2): Stock tracking system built with Python and MongoDB.
 
 ## Get in Touch
-I’m always open to collaboration, feedback, or just a friendly chat! Let’s connect and explore new opportunities to create something great together.
+I’m always open to collaboration, feedback, or just a friendly chat! Let’s connect and explore new opportunities to create something great together.  
 
 📧 **Email**: [anilakbay20@gmail.com](mailto:anilakbay20@gmail.com)  
 💼 **LinkedIn**: [linkedin.com/in/anilakbay](https://www.linkedin.com/in/anilakbay)  
-🔗 **GitHub**: [github.com/anilakbay](https://github.com/anilakbay)
+🔗 **GitHub**: [github.com/anilakbay](https://github.com/anilakbay)  
 
 Thanks for checking out my GitHub profile! Let’s create something amazing together! 🚀
